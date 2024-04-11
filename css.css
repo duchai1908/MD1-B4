@@ -1,0 +1,52 @@
+p#check{
+    color: red ;
+}
+.wrapper{
+    width:700px;
+    height: auto;
+   
+    text-align: center;
+}
+header.hd1{
+    width:100px;
+    height: auto;
+  
+    text-align: center;
+    background-color: #7346f0;
+    padding: 5px;
+    margin-left:40% ;
+}
+div.div1{
+    width:100%;
+    height: auto;
+   
+}
+div.div2{
+    width:150px;
+    height: auto;
+    text-align: center;
+    background-color: black;
+    margin-left: 30%;
+    float:left;
+    border-radius: 5px;
+}
+div.div3{
+    width:150px;
+    height: auto;
+    text-align: center;
+    background-color: black;
+    float:left;
+    margin-left: 1%;
+    border-radius: 5px;
+}
+.clear{
+    clear: both;
+}
+b{
+    font-size: x-large;
+    
+}
+span{
+    color: aqua;
+    font-weight: bolder;
+}

@@ -1,0 +1,37 @@
+.wrapper{
+    width: 600px;
+    height:  250px;
+    border: 1px solid #070606;
+    background-image: url("1.jpg");
+}
+p{
+    text-align: center;
+    color: aliceblue;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+.main{
+    background-color: orangered;
+    width:max-content; 
+    margin-left: 30%;
+    margin-top: 5%;
+    border-radius: 5px;
+}
+.wrapper2{
+    width: 800px;
+    height:auto;
+    margin: auto;
+    background-color: gray;
+}
+h1{
+    text-align: center;
+    padding-top: 5%;
+}
+img{
+    padding-left: 32%;
+}
+p#p1{
+    text-align: left;
+    padding-left: 5%;
+    padding-bottom: 5%;
+}
